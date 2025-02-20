@@ -13,13 +13,13 @@
 
 ## Supervised Fine-Tuning
 ### Image MLLM
-
+- Virgo: A Preliminary Exploration on Reproducing o1-like MLLM
 ### Video MLLM
 
 ## Reinforcement Learining
 
 ### Image MLLM
-
+- InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model
 - Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization
 
 ### Video MLLM
@@ -30,5 +30,5 @@
 ### Image MLLM
 
 ### Video MLLM
-
+- Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding
 - video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model
