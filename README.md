@@ -3,10 +3,10 @@
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
 ## Contents
- - [Benchmark](#Visual Reasoning Benchmark)
- - [Supervised Fine-Tuning](#Supervised Fine-Tuning)
- - [Reinforcement Learining](#Reinforcement Learining)
- - [SFT + RL](##SFT + RL)
+ - [Benchmark](#Visual-Reasoning-Benchmark)
+ - [Supervised Fine-Tuning](#Supervised-Fine-Tuning)
+ - [Reinforcement Learining](#Reinforcement-Learining)
+ - [SFT + RL](##SFT+RL)
 
 
 ## Visual Reasoning Benchmark
