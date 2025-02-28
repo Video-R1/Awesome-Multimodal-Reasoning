@@ -1,4 +1,4 @@
-# Awesome-Visual-Reasoning
+# Awesome-Multimodal-Reasoning
 
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
@@ -9,7 +9,7 @@
  - [SFT + RL](##SFT+RL)
 
 
-## Visual Reasoning Benchmark
+## Multimodal Reasoning Benchmark
 
 ## Supervised Fine-Tuning
 ### Image MLLM
