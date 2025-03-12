@@ -3,11 +3,9 @@
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
 ## Contents
- - [Benchmark](#Visual-Reasoning-Benchmark)
- - [Model](#Reinforcement-Learining)
- - [Data](##SFT+RL)
-
-
+ - [Benchmark](##Benchmark)
+ - [Model](##Model)
+ - [Data](##Data)
 
 ## Benchmark
 
