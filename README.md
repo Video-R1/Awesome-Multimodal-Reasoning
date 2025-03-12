@@ -11,10 +11,10 @@
 
 ## Benchmark
 
-| Date | Project                                                      | Task |
-| ---- | ------------------------------------------------------------ | ---- |
-|      | [**M**3**CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought**](https://arxiv.org/html/2405.16473v1) |      |
-|      | [[MME-CoT 🔥🕵️: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency](https://github.com/CaraJ7/MME-CoT)](https://arxiv.org/pdf/2410.16198) |      |
+| Date  | Project                                                      | Task |
+| ----- | ------------------------------------------------------------ | ---- |
+| 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[Paper]](https://arxiv.org/html/2405.16473v1) |      |
+| 24.10 | MME-CoT 🔥🕵️: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[Paper]](https://arxiv.org/pdf/2410.16198)[[Code]](https://github.com/CaraJ7/MME-CoT) |      |
 
 ## Model
 
@@ -22,9 +22,10 @@
 
 | Date  | Project                                                      | SFT  | RL   | Task |
 | ----- | ------------------------------------------------------------ | ---- | ---- | ---- |
-|       | [Virgo: A Preliminary Exploration on Reproducing o1-like MLLM](https://arxiv.org/abs/2501.01904) |      |      |      |
-|       | [Improve Vision Language Model Chain-of-thought Reasoning](https://arxiv.org/pdf/2410.16198) |      |      |      |
-|       | [LLaVA-CoT: Let Vision Language Models Reason Step-by-Step](https://arxiv.org/abs/2411.10440) |      |      |      |
+| 24.10 | Improve Vision Language Model Chain-of-thought Reasoning [[Paper]](https://arxiv.org/pdf/2410.16198) |      |      |      |
+| 25.01 | Virgo: A Preliminary Exploration on Reproducing o1-like MLLM [[Paper]](https://arxiv.org/abs/2501.01904) |      |      |      |
+|       |                                                              |      |      |      |
+| 24.11 | LLaVA-CoT: Let Vision Language Models Reason Step-by-Step [[Paper]](https://arxiv.org/abs/2411.10440) |      |      |      |
 | 24.11 | Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization [[Paper]](https://arxiv.org/abs/2411.10442) [[Code]()] |      |      |      |
 | 25.01 | InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model [[Paper]](https://arxiv.org/abs/2501.12368) [[Code]]() |      |      |      |
 | 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[Paper]](https://arxiv.org/abs/2502.10391) |      |      |      |
@@ -44,13 +45,13 @@
 
 ### Video MLLM
 
-| Date | Project                                                      | Comment |
-| ---- | ------------------------------------------------------------ | ------- |
-|      | Open-R1-Video[[Code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) |         |
-|      | Video-R1[[Code]](https://github.com/tulerfeng/Video-R1)      |         |
-|      | Temporal Preference Optimization for Long-Form Video Understanding [[Paper]](https://arxiv.org/abs/2501.13919) |         |
-|      | [Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding]() |         |
-|      | [video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model](https://arxiv.org/abs/2502.11775) |         |
+| Date  | Project                                                      | Comment |
+| ----- | ------------------------------------------------------------ | ------- |
+|       | Open-R1-Video[[Code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) |         |
+|       | Video-R1[[Code]](https://github.com/tulerfeng/Video-R1)      |         |
+| 25.01 | Temporal Preference Optimization for Long-Form Video Understanding [[Paper]](https://arxiv.org/abs/2501.13919) |         |
+|       | Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding |         |
+| 25.02 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [[Paper]](https://arxiv.org/abs/2502.11775) |         |
 
 
 
@@ -62,7 +63,7 @@ TODO
 
 | Date | Project                                                      | Comment |
 | ---- | ------------------------------------------------------------ | ------- |
-|      | [Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot)https://github.com/Wang-Xiaodong1899/Open-R1-Video) |         |
+|      | Multimodal Chain-of-Thought Reasoning in Language Models [[Code]](https://github.com/amazon-science/mm-cot) |         |
 
 
 
