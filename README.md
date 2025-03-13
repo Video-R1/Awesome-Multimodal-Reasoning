@@ -74,7 +74,7 @@ TODO
 
 
 ## Data
-| Date | Project                                                      | Comment |
-| ---- | ------------------------------------------------------------ | ------- |
-|      |  |         |
+| Date  | Project                                                      | Comment          |
+| ----- | ------------------------------------------------------------ | ---------------- |
+| 24.11 | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained  Video Reasoning via Core Frame Selection[[📑Paper\]](https://arxiv.org/abs/2411.14794)[[🖥️Code\]](https://github.com/hshjerry/VideoEspresso) | various video QA |
 
