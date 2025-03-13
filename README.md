@@ -3,9 +3,13 @@
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
 ## Contents
- - [Benchmark](##Benchmark)
- - [Model](##Model)
- - [Data](##Data)
+ - [Benchmark](#benchmark)
+ - [Model](#model)
+    - [Image MLLM](#image-mllm)
+    - [Video MLLM](#video-mllm)
+    - [Image Generation](#image-generation)
+    - [LLM](#llm)
+ - [Data](#data)
 
 ## Benchmark
 
