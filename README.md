@@ -64,9 +64,17 @@
 | 25.02 | Video-R1: Towards Super Reasoning Ability in Video Understanding [[🖥️Code]](https://github.com/tulerfeng/Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/HumanMLLM/R1-Omni) | cold start    | GRPO | Emotion recognition |
 
-### Image Generation
+### Image/Video Generation
 
-TODO
+| Date  | Proj                                                                                                                          | Comment                                                    |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 25.02 | [C-Drag:Chain-of-Thought Driven Motion Controller for Video Generation](https://arxiv.org/pdf/2502.19868)                     | Calculate simple motion vector with LLM.                   |
+| 25.01 | [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) | Potential Assessment Reward Model for AR Image Generation. |
+| 25.01 | [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)                     | Visualization-of-Thought                                   |
+| 25.01 | [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/pdf/2501.05452)          | Draw something!                                            |
+| 24.12 | [EVLM: Self-Reflective Multimodal Reasoning for Cross-Dimensional Visual Editing](https://arxiv.org/pdf/2412.10566)           | Thinking in text space with a caption model.               |
+
+
 
 ### LLM
 
