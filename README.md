@@ -7,7 +7,7 @@
  - [Model](#model)
     - [Image MLLM](#image-mllm)
     - [Video MLLM](#video-mllm)
-    - [Image Generation](#image-generation)
+    - [Image/Video Generation](#image/video-generation)
     - [LLM](#llm)
  - [Data](#data)
 
