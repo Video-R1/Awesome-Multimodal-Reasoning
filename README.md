@@ -11,12 +11,12 @@
 
 
 
-| Date  | Project                                                      | Task          |
-| ----- | ------------------------------------------------------------ | ------------- |
-| 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[📑Paper]](https://arxiv.org/html/2405.16473v1) | M3CoT         |
-| 24.10 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2410.16198)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT       |
-| 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench |
+| Date  | Project                                                      | Task                                     |
+| ----- | ------------------------------------------------------------ | ---------------------------------------- |
+| 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[📑Paper]](https://arxiv.org/html/2405.16473v1) | M3CoT                                    |
+| 24.10 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2410.16198)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
 | 24.11 | VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models [[📑Paper]](https://arxiv.org/abs/2411.17451) | VLRewardBench                            |
+| 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench                            |
 | 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
 
 ## Model
@@ -46,6 +46,7 @@
 | 25.03            | Visual-RFT: Visual Reinforcement Fine-Tuning [[📑Paper]](https://arxiv.org/abs/2503.01785)[[🖥️Code]](https://github.com/Liuziyu77/Visual-RFT) | -                                                    | GRPO      | Detection, Grounding, Classification                         |
 | 25.03            | VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[📑Paper]](https://arxiv.org/pdf/2503.07523)[[🖥️Code]](https://github.com/zhangquanchen/VisRL) | warm up                                              | DPO       | Various VQA                                                  |
 | 25.03 (CVPR2025) | GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks [[📑Paper]](https://arxiv.org/pdf/2503.06514) | -                                                    | GFlowNets | NumberLine (NL) and BlackJack (BJ)                           |
+| 25.03            | MMR1: Advancing the Frontiers of Multimodal Reasoning [[Code]](https://github.com/LengSicong/MMR1) | -                                                    | GRPO      | Math                                                         |
 
 
 
@@ -53,11 +54,11 @@
 
 | Date  | Project                                                      | SFT           | RL   | Task                |
 | ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
-| 25.02 | Open-R1-Video[[🖥️Code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) | -             | GRPO | LongVideoBench      |
-| 25.02 | Video-R1: Towards Super Reasoning Ability in Video Understanding [[🖥️Code]](https://github.com/tulerfeng/Video-R1) | -             | GRPO | DVD-counting        |
 | 25.01 | Temporal Preference Optimization for Long-Form Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.13919)[[🖥️Code]](https://ruili33.github.io/tpo_website/) | -             | DPO  | various video QA    |
 | 25.01 | Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.07888)[[🖥️Code]]() | main training | DPO  | Video caption & QA  |
 | 25.02 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [[📑Paper]](https://arxiv.org/abs/2502.11775) | cold start    | DPO  | various video QA    |
+| 25.02 | Open-R1-Video[[🖥️Code]](https://github.com/Wang-Xiaodong1899/Open-R1-Video) | -             | GRPO | LongVideoBench      |
+| 25.02 | Video-R1: Towards Super Reasoning Ability in Video Understanding [[🖥️Code]](https://github.com/tulerfeng/Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/HumanMLLM/R1-Omni) | cold start    | GRPO | Emotion recognition |
 
 ### Image Generation
