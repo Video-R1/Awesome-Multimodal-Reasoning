@@ -75,6 +75,7 @@
 
 | Date  | Proj                                                                                                                          | Comment                                                    |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 25.03 | [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://arxiv.org/pdf/2503.10639)                     | A reasoning-guided framework for generation and editing.                   |
 | 25.02 | [C-Drag:Chain-of-Thought Driven Motion Controller for Video Generation](https://arxiv.org/pdf/2502.19868)                     | Calculate simple motion vector with LLM.                   |
 | 25.01 | [Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step](https://arxiv.org/pdf/2501.13926) | Potential Assessment Reward Model for AR Image Generation. |
 | 25.01 | [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542)                     | Visualization-of-Thought                                   |
