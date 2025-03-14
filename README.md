@@ -18,9 +18,9 @@
 | Date  | Project                                                      | Task                                     |
 | ----- | ------------------------------------------------------------ | ---------------------------------------- |
 | 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[📑Paper]](https://arxiv.org/html/2405.16473v1) | M3CoT                                    |
-| 24.10 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2410.16198)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
 | 24.11 | VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models [[📑Paper]](https://arxiv.org/abs/2411.17451) | VLRewardBench                            |
 | 25.01 | LlamaV-o1: Rethinking Step-By-Step Visual Reasoning in LLMs [[📑Paper]](https://arxiv.org/abs/2501.06186)[[🖥️Code]](https://github.com/mbzuai-oryx/LlamaV-o1) | VRCBench                                 |
+| 25.02 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2502.09621)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
 | 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench                            |
 | 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
 | 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ |
