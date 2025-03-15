@@ -3,28 +3,15 @@
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
 ## Contents
- - [Benchmark](#benchmark)
  - [Model](#model)
     - [Image MLLM](#image-mllm)
     - [Video MLLM](#video-mllm)
     - [Image/Video Generation](#imagevideo-generation)
     - [LLM](#llm)
+ - [Benchmark](#benchmark)
  - [Data](#data)
 
-## Benchmark
 
-
-
-| Date  | Project                                                      | Task                                     |
-| ----- | ------------------------------------------------------------ | ---------------------------------------- |
-| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning[[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                   |
-| 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ                                    |
-| 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
-| 25.02 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2502.09621)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
-| 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench                            |
-| 25.01 | LlamaV-o1: Rethinking Step-By-Step Visual Reasoning in LLMs [[📑Paper]](https://arxiv.org/abs/2501.06186)[[🖥️Code]](https://github.com/mbzuai-oryx/LlamaV-o1) | VRCBench                                 |
-| 24.11 | VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models [[📑Paper]](https://arxiv.org/abs/2411.17451) | VLRewardBench                            |
-| 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[📑Paper]](https://arxiv.org/html/2405.16473v1) | M3CoT                                    |
 
 ## Model
 
@@ -33,7 +20,7 @@
 | Date             | Project                                                      | SFT                                                        | RL                                                           | Task                                                         |
 | ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 25.03            | VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[📑Paper]](https://arxiv.org/abs/2503.10291)[[model]](https://huggingface.co/OpenGVLab/VisualPRM-8B)[[data]](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)[[benchmark]](https://huggingface.co/datasets/OpenGVLab/VisualProcessBench) | -                                                          | Process Reward Model                                         | Math & MMMU                                                  |
-| 25.03            | R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[📑Paper]](https://yangyi-vai.notion.site/r1-onevision)[[🖥️Code]](https://github.com/Fancy-MLLM/R1-Onevision) | ongoing                                                    | ongoing                                                      | ongoing                                                      |
+| 25.03            | R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization [[📑Paper]](https://arxiv.org/pdf/2503.10615)[[Project website]](https://yangyi-vai.notion.site/r1-onevision)[[🖥️Code]](https://github.com/Fancy-MLLM/R1-Onevision) | 155k R1-OneVision                                          | GRPO                                                         | Math                                                         |
 | 25.03            | MMR1: Advancing the Frontiers of Multimodal Reasoning [[🖥️Code]](https://github.com/LengSicong/MMR1) | -                                                          | GRPO                                                         | Math                                                         |
 | 25.03 (CVPR2025) | GFlowVLM: Enhancing Multi-step Reasoning in Vision-Language Models with Generative Flow Networks [[📑Paper]](https://arxiv.org/pdf/2503.06514) | -                                                          | GFlowNets                                                    | NumberLine (NL) and BlackJack (BJ)                           |
 | 25.03            | VisRL: Intention-Driven Visual Perception via Reinforced Reasoning [[📑Paper]](https://arxiv.org/pdf/2503.07523)[[🖥️Code]](https://github.com/zhangquanchen/VisRL) | warm up                                                    | DPO                                                          | Various VQA                                                  |
@@ -76,6 +63,8 @@
 | 25.01 | Temporal Preference Optimization for Long-Form Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.13919)[[🖥️Code]](https://ruili33.github.io/tpo_website/) | -             | DPO  | various video QA    |
 | 25.01 | Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.07888)[[🖥️Code]]() | main training | DPO  | Video caption & QA  |
 
+
+
 ### Image/Video Generation
 
 | Date  | Proj                                                         | Comment                                                    |
@@ -93,11 +82,27 @@
 
 | Date  | Project                                                      | Comment |
 | ----- | ------------------------------------------------------------ | ------- |
-| 23.02 | Multimodal Chain-of-Thought Reasoning in Language Models [[🖥️Code]](https://github.com/amazon-science/mm-cot) |         |
+| 23.02 | Multimodal Chain-of-Thought Reasoning in Language Models [[📑Paper]](https://arxiv.org/abs/2302.00923) [[🖥️Code]](https://github.com/amazon-science/mm-cot) |         |
+
+
+
+## Benchmark
+
+| Date  | Project                                                      | Task                                     |
+| ----- | ------------------------------------------------------------ | ---------------------------------------- |
+| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning[[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                   |
+| 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ                                    |
+| 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
+| 25.02 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2502.09621)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
+| 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench                            |
+| 25.01 | LlamaV-o1: Rethinking Step-By-Step Visual Reasoning in LLMs [[📑Paper]](https://arxiv.org/abs/2501.06186)[[🖥️Code]](https://github.com/mbzuai-oryx/LlamaV-o1) | VRCBench                                 |
+| 24.11 | VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models [[📑Paper]](https://arxiv.org/abs/2411.17451) | VLRewardBench                            |
+| 24.05 | M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought [[📑Paper]](https://arxiv.org/html/2405.16473v1) | M3CoT                                    |
 
 
 
 ## Data
+
 | Date  | Project                                                      | Comment          |
 | ----- | ------------------------------------------------------------ | ---------------- |
 | 24.11 | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained  Video Reasoning via Core Frame Selection[[📑Paper]](https://arxiv.org/abs/2411.14794)[[🖥️Code]](https://github.com/hshjerry/VideoEspresso) | various video QA |
