@@ -9,7 +9,7 @@
     - [Video MLLM](#video-mllm)
     - [Image/Video Generation](#imagevideo-generation)
     - [LLM](#llm)
-    - Process Reward Model(#process-reward-model)
+    - [Process Reward Model](#process-reward-model)
  - [Data](#data)
 
 ## Benchmark
