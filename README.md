@@ -9,6 +9,7 @@
     - [Video MLLM](#video-mllm)
     - [Image/Video Generation](#imagevideo-generation)
     - [LLM](#llm)
+    - Process Reward Model(#process-reward-model)
  - [Data](#data)
 
 ## Benchmark
@@ -23,8 +24,8 @@
 | 25.02 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2502.09621)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
 | 25.02 | OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference [[📑Paper]](https://arxiv.org/abs/2502.18411)[[🖥️Code]](https://github.com/PhoenixZ810/OmniAlign-V) | MM-AlignBench                            |
 | 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
-| 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ |
-| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning[[📑Paper\]](https://arxiv.org/pdf/2503.06232)[[Data\]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT |
+| 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ                                    |
+| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning[[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                   |
 
 ## Model
 
@@ -90,11 +91,14 @@
 | ---- | ------------------------------------------------------------ | ------- |
 |      | Multimodal Chain-of-Thought Reasoning in Language Models [[🖥️Code]](https://github.com/amazon-science/mm-cot) |         |
 
+### Process Reward Model
 
+| Date  | Project                                                      | Comment                                                      |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 25.03 | VisualPRM: An Effective Process Reward Model for Multimodal Reasoning [[📑Paper]](https://arxiv.org/abs/2503.10291)[[model]](https://huggingface.co/OpenGVLab/VisualPRM-8B)[[data]](https://huggingface.co/datasets/OpenGVLab/VisualPRM400K)[[benchmark]](https://huggingface.co/datasets/OpenGVLab/VisualProcessBench) | VisualPRM improves the overall reasoning performance of MLLM |
 
 ## Data
 | Date  | Project                                                      | Comment          |
 | ----- | ------------------------------------------------------------ | ---------------- |
-| 24.11 | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained  Video Reasoning via Core Frame Selection[[📑Paper\]](https://arxiv.org/abs/2411.14794)[[🖥️Code\]](https://github.com/hshjerry/VideoEspresso) | various video QA |
-
+| 24.11 | VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained  Video Reasoning via Core Frame Selection[[📑Paper]](https://arxiv.org/abs/2411.14794)[[🖥️Code]](https://github.com/hshjerry/VideoEspresso) | various video QA |
 
