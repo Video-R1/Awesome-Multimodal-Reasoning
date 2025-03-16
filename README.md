@@ -90,7 +90,8 @@
 
 | Date  | Project                                                      | Task                                     |
 | ----- | ------------------------------------------------------------ | ---------------------------------------- |
-| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning[[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                   |
+| 25.03 | SCIVERSE: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems [[📑Paper]](https://arxiv.org/pdf/2503.10627) | SCIVERSE |
+| 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                   |
 | 25.02 | MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models [[📑Paper]](https://arxiv.org/pdf/2502.00698)[[🖥️Code]](https://github.com/AceCHQ/MMIQ) | MM-IQ                                    |
 | 25.02 | MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[📑Paper]](https://arxiv.org/abs/2502.10391) | MM-RLHF-RewardBench, MM-RLHF-SafetyBench |
 | 25.02 | MME-CoT: Benchmarking Chain-of-Thought in LMMs for Reasoning Quality, Robustness, and Efficiency [[📑Paper]](https://arxiv.org/pdf/2502.09621)[[🖥️Code]](https://github.com/CaraJ7/MME-CoT) | MME-CoT                                  |
