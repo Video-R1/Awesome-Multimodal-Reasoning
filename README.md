@@ -58,6 +58,7 @@
 
 | Date  | Project                                                      | SFT           | RL   | Task                |
 | ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
+| 25.03 | Open-LLaVA-Video-R1[[🖥️Code]](https://github.com/Hui-design/Open-LLaVA-Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/www-Ye/TimeZero) | -   | GRPO | Temporal Grounding |
 | 25.03 | R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/HumanMLLM/R1-Omni) | cold start    | GRPO | Emotion recognition |
 | 25.02 | video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model [[📑Paper]](https://arxiv.org/abs/2502.11775) | cold start    | DPO  | various video QA    |
