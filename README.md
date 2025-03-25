@@ -6,6 +6,7 @@
  - [Model](#model)
     - [Image MLLM](#image-mllm)
     - [Video MLLM](#video-mllm)
+    - [Audio MLLM](#audio-mllm)
     - [Image/Video Generation](#imagevideo-generation)
     - [LLM](#llm)
  - [Benchmark](#benchmark)
@@ -69,6 +70,11 @@
 | 25.01 | Temporal Preference Optimization for Long-Form Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.13919)[[🖥️Code]](https://ruili33.github.io/tpo_website/) | -             | DPO  | various video QA    |
 | 25.01 | Tarsier2: Advancing Large Vision-Language Models from Detailed Video Description to Comprehensive Video Understanding [[📑Paper]](https://arxiv.org/abs/2501.07888)[[🖥️Code]]() | main training | DPO  | Video caption & QA  |
 
+### Audio MLLM
+
+| Date  | Project                                                      | SFT           | RL   | Task                |
+| ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
+| 25.03 | Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering [[📑Paper]](https://arxiv.org/abs/2503.11197)[[🖥️Code]](https://github.com/xiaomi-research/r1-aqa) | -             | GRPO | AudioQA        |
 
 
 ### Image/Video Generation
