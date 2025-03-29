@@ -126,4 +126,5 @@
 
 | Date  | Project                                                      | Comment |
 | ----- | ------------------------------------------------------------ | ------- |
+| 25.03 | A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond[[📑Paper]](https://arxiv.org/abs/2503.21614) |  |
 | 25.03 | Aligning Multimodal LLM with Human Preference: A Survey[[📑Paper]](https://arxiv.org/abs/2503.14504) |         |
