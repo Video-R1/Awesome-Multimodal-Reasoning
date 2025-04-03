@@ -105,6 +105,7 @@
 
 | Date  | Project                                                      | Task                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 25.03 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1[[📑Paper]](https://arxiv.org/pdf/2503.24376) | Video understanding(perception and reasoing)                 |
 | 25.03 | Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study[[📑Paper]](https://arxiv.org/pdf/2503.16788)[[Data]](https://github.com/LlamaTouch/VLM-Reasoning-Traces) | static and dynamic mobile GUI benchmarks (ScreenSpot, AndroidControl, and AndroidWorld) |
 | 25.03 | SCIVERSE: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems [[📑Paper]](https://arxiv.org/pdf/2503.10627) | SCIVERSE                                                     |
 | 25.03 | Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning [[📑Paper]](https://arxiv.org/pdf/2503.06232)[[Data]](https://huggingface.co/datasets/Battam/3D-CoT) | 3D-CoT                                                       |
