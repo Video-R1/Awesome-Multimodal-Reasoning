@@ -15,6 +15,12 @@
 
 
 
+### NEWS
+
+🔥We present **VideoChat-R1**, a powerful video MLLM that achieves stateof-the-art performance on spatio-temporal perception tasks without sacrificing chat ability, while exhibiting emerging spatio-temporal reasoning abilities. Compared to Qwen2.5-VL-7B, VideoChat-R1 boosts performance several-fold in tasks like **temporal grounding (+31.8)** and **object tracking (+31.2)**. Additionally, it significantly improves on general QA benchmarks such as **VideoMME (+0.9)**, **MVBench (+1.0)**, and **Perception Test (+0.9)**. Our findings underscore the potential of RFT for specialized task enhancement of Video MLLMs. We hope our work offers valuable insights for future RL research in video MLLMs.[[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1)
+
+
+
 ## Model
 
 ### Image MLLM
@@ -63,6 +69,7 @@
 
 | Date  | Project                                                      | SFT           | RL   | Task                |
 | ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
+| 25.04.10 | VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning[[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1) | - | GRPO | general video understanding,video temporal grounding, object tracking, QA and grounding QA tasks,video captioning and video quality access |
 | 25.03 | Open-LLaVA-Video-R1[[🖥️Code]](https://github.com/Hui-design/Open-LLaVA-Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/www-Ye/TimeZero) | -   | GRPO | Temporal Grounding |
 | 25.03 | R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/HumanMLLM/R1-Omni) | cold start    | GRPO | Emotion recognition |
