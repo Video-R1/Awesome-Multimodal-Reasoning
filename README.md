@@ -4,7 +4,7 @@
 
 ### NEWS
 
-🔥We present **VideoChat-R1**, a powerful video MLLM that achieves stateof-the-art performance on spatio-temporal perception tasks without sacrificing chat ability, while exhibiting emerging spatio-temporal reasoning abilities. Compared to Qwen2.5-VL-7B, VideoChat-R1 boosts performance several-fold in tasks like **temporal grounding (+31.8)** and **object tracking (+31.2)**. Additionally, it significantly improves on general QA benchmarks such as **VideoMME (+0.9)**, **MVBench (+1.0)**, and **Perception Test (+0.9)**. Our findings underscore the potential of RFT for specialized task enhancement of Video MLLMs. We hope our work offers valuable insights for future RL research in video MLLMs.[[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1)
+🔥We present **VideoChat-R1**, a powerful video MLLM that achieves state of-the-art performance on spatio-temporal perception tasks without sacrificing chat ability, while exhibiting emerging spatio-temporal reasoning abilities. [[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1)
 
 ## Contents
  - [Model](#model)
