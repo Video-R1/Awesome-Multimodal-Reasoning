@@ -2,9 +2,6 @@
 
 **Contributions are most welcome**, if you have any suggestions or improvements, feel free to create an issue or raise a pull request.
 
-### NEWS
-
-🔥We present **VideoChat-R1**, a powerful video MLLM that achieves state of-the-art performance on spatio-temporal perception tasks without sacrificing chat ability, while exhibiting emerging spatio-temporal reasoning abilities. [[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1)
 
 ## Contents
  - [Model](#model)
