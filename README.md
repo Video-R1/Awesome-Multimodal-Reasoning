@@ -21,6 +21,7 @@
 
 | Date             | Project                                                      | SFT                                                        | RL                                                           | Task                                                         |
 | ---------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 25.12             | RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics  [[📑Paper]](https://arxiv.org/abs/2512.13660)[[🖥️Code]](https://github.com/Zhoues/RoboTracer) | SFT-based Reasoning Activation | - | 3D Spatial Tracing  |
 | 25.03             | Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning  [[📑Paper]](https://arxiv.org/abs/2503.20752)[[🖥️Code]](https://tanhuajie.github.io/ReasonRFT) |  SFT-based Reasoning Activation | GRPO | Visual Count, Structure Perception, Spatial Transformation  |
 | 25.03             | Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks  [[📑Paper]](https://arxiv.org/abs/2503.21696)[[🖥️Code]](https://github.com/zwq2018/embodied_reasoner) | 9.3k observation-thought-action trajectories | - | Interactive Embodied Tasks |
 | 25.03             | OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement [[📑Paper]]([https://arxiv.org/pdf/2503.18013v1](https://arxiv.org/pdf/2503.17352v1))[[🖥️Code]](https://github.com/yihedeng9/OpenVLThinker)  | Iterative SFT | Iterative GRPO | Various VQA| 
@@ -109,6 +110,7 @@
 
 | Date  | Project                                                      | Task                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 25.12             | RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics  [[📑Paper]](https://arxiv.org/abs/2512.13660)[[🖥️Code]](https://github.com/Zhoues/RoboTracer) |  3D Spatial Tracing  |
 | 25.03 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1[[📑Paper]](https://arxiv.org/pdf/2503.24376) | Video understanding(perception and reasoing)                 |
 | 25.03 | Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study[[📑Paper]](https://arxiv.org/pdf/2503.16788)[[Data]](https://github.com/LlamaTouch/VLM-Reasoning-Traces) | static and dynamic mobile GUI benchmarks (ScreenSpot, AndroidControl, and AndroidWorld) |
 | 25.03 | SCIVERSE: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems [[📑Paper]](https://arxiv.org/pdf/2503.10627) | SCIVERSE                                                     |
