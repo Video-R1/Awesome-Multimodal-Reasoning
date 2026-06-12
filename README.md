@@ -109,6 +109,7 @@
 
 | Date  | Project                                                      | Task                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 26.03 (ACL 2026) | GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents [[📑Paper]](https://arxiv.org/abs/2603.24329)[[Project]](https://hats-ict.github.io/gameplayqa/)[[🖥️Code]](https://github.com/HATS-ICT/GameplayQA)[[Data]](https://huggingface.co/datasets/wangyz1999/GameplayQA) | Multi-video QA over 3D virtual agents (~2.4K QA pairs, 15 task categories, 3 cognitive levels) |
 | 25.03 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1[[📑Paper]](https://arxiv.org/pdf/2503.24376) | Video understanding(perception and reasoing)                 |
 | 25.03 | Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study[[📑Paper]](https://arxiv.org/pdf/2503.16788)[[Data]](https://github.com/LlamaTouch/VLM-Reasoning-Traces) | static and dynamic mobile GUI benchmarks (ScreenSpot, AndroidControl, and AndroidWorld) |
 | 25.03 | SCIVERSE: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems [[📑Paper]](https://arxiv.org/pdf/2503.10627) | SCIVERSE                                                     |
