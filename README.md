@@ -109,6 +109,7 @@
 
 | Date  | Project                                                      | Task                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 26.07 | Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text [[📑Paper]](https://arxiv.org/abs/2607.21072)[[🖥️Code]](https://github.com/ZJU-OmniAI/ProVisE) | SpatialGen-Bench (spatial cognition of image-generation models and VLMs) |
 | 25.03 | Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1[[📑Paper]](https://arxiv.org/pdf/2503.24376) | Video understanding(perception and reasoing)                 |
 | 25.03 | Does Chain-of-Thought Reasoning Help Mobile GUI Agent? An Empirical Study[[📑Paper]](https://arxiv.org/pdf/2503.16788)[[Data]](https://github.com/LlamaTouch/VLM-Reasoning-Traces) | static and dynamic mobile GUI benchmarks (ScreenSpot, AndroidControl, and AndroidWorld) |
 | 25.03 | SCIVERSE: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems [[📑Paper]](https://arxiv.org/pdf/2503.10627) | SCIVERSE                                                     |
