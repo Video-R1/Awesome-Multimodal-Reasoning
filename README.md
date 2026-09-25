@@ -65,6 +65,7 @@
 
 | Date  | Project                                                      | SFT           | RL   | Task                |
 | ----- | ------------------------------------------------------------ | ------------- | ---- | ------------------- |
+| 26.09.19 | Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World [[📑Paper]](https://arxiv.org/abs/2609.23038)[[🖥️Code]](https://github.com/ZJU-OmniAI/Spatial-Interactor) | local state-transition SFT | OPD + verifiable answer rewards | video spatial reasoning, ego-motion, long-horizon trajectory reasoning |
 | 25.04.10 | VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning[[📑Paper]](https://arxiv.org/pdf/2504.06958)[[🖥️Code]](https://github.com/OpenGVLab/VideoChat-R1) | - | GRPO | general video understanding,video temporal grounding, object tracking, QA and grounding QA tasks,video captioning and video quality access |
 | 25.03 | Open-LLaVA-Video-R1[[🖥️Code]](https://github.com/Hui-design/Open-LLaVA-Video-R1) | -             | GRPO | DVD-counting        |
 | 25.03 | TimeZero: Temporal Video Grounding with Reasoning-Guided LVLM [[📑Paper]](https://arxiv.org/abs/2503.05379)[[🖥️Code]](https://github.com/www-Ye/TimeZero) | -   | GRPO | Temporal Grounding |
